@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Global Startup Awards - SAARC | GSA SAARC 2018</title>
+	<meta name="description" content="Global Startup Awards SAARC, focuses on celebrating the spirit of entrepreneurship and promote bridging boundaries using innovation in our region comprising of Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka by appreciating them with our most coveted awards program which will be attended by the top notch entrepreneurs, corporates, investors and ecosystem builders from Nordic, Central Europe, SAARC and ASEAN.
+
+The Grand Finale, a showdown of conferences, awards shows, exhibitions, hackathons, workshops and pitch sessions, is expected to have a turnout of 6000+ attendees. The top 150+ celebrity entrepreneurs, 100+ investors, 50+ corporate innovation hubs, 20+ media houses from across the world are joining hands to support you and enable you with a never before exposure, this becomes a one stop shop for entrepreneurs every year.
+
+Our Global Cross Pollination Panel comprising of our alumni network of mentors, entrepreneurs, advisers, ambassadors and Jury from some of the most coveted startups/institutions will help enable your idea to come to reality, scale up to other countries and maybe even get funded.
+
+"Come celebrate entrepreneurship and let's bridge boundaries using innovation."">
+	<meta name="keywords" content="Startup,Awards,Startup Awards,entrepreneur,innovation,India,Pakistan,Bangladesh,Community,Clusters,Nepal,Afghanistan">
+		<meta name="author" content="Jerric Lyns John">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="cleartype" content="on">
+
+		<meta property="og:title" content="Global Startup Awards - SAARC | GSA SAARC 2018"/>
+	
+
+	<meta property="og:image" content="http://saarcstartupawards.com/content/webshare.png"/>
+	<meta property="og:url" content="http://www.saarcstartupawards.com"/>
+	<meta property="og:site_name" content="Global Startup Awards - SAARC"/>
+	<meta property="og:description" content="Global Startup Awards SAARC, focuses on celebrating the spirit of entrepreneurship and promote bridging boundaries using innovation in our region comprising of Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka by appreciating them with our most coveted awards program which will be attended by the top notch entrepreneurs, corporates, investors and ecosystem builders from Nordic, Central Europe, SAARC and ASEAN.
+
+The Grand Finale, a showdown of conferences, awards shows, exhibitions, hackathons, workshops and pitch sessions, is expected to have a turnout of 6000+ attendees. The top 150+ celebrity entrepreneurs, 100+ investors, 50+ corporate innovation hubs, 20+ media houses from across the world are joining hands to support you and enable you with a never before exposure, this becomes a one stop shop for entrepreneurs every year.
+
+Our Global Cross Pollination Panel comprising of our alumni network of mentors, entrepreneurs, advisers, ambassadors and Jury from some of the most coveted startups/institutions will help enable your idea to come to reality, scale up to other countries and maybe even get funded.
+
+"Come celebrate entrepreneurship and let's bridge boundaries using innovation.""/>
+	<meta property="og:type" content="website"/>
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=wAAKEnzNBn">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png?v=wAAKEnzNBn" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-194x194.png?v=wAAKEnzNBn" sizes="194x194">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png?v=wAAKEnzNBn" sizes="96x96">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=wAAKEnzNBn" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png?v=wAAKEnzNBn" sizes="16x16">
+	<link rel="manifest" href="/manifest.json?v=wAAKEnzNBn">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg?v=wAAKEnzNBn" color="#5bbad5">
+	<link rel="shortcut icon" href="/favicon.ico?v=wAAKEnzNBn">
+	<meta name="apple-mobile-web-app-title" content="Startup Awards India">
+	<meta name="application-name" content="Startup Awards India">
+	<meta name="msapplication-TileColor" content="#ffc40d">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=wAAKEnzNBn">
+	<meta name="theme-color" content="#ffffff">
+
+			<script src="http://www.saarcstartupawards.com/assets/js/modernizr.min.js"></script>
+				<script src="http://www.saarcstartupawards.com/assets/js/paper.min.js"></script>
+				<link rel="stylesheet" href="http://www.saarcstartupawards.com/assets/css/style.min.css">	
+	
+<!-- Custom global head codes from panel -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '547090995483108');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=547090995483108&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">var F6S_v1 = F6S_v1 || {}; F6S_v1.params = F6S_v1.params || []; F6S_v1.params.push({ type: 'widget', widgetType: 'apply-countdown-button', containerId: 'f6s-apply-59f0c3d2beac6' });(function() { var st = document.createElement('script'); st.type = 'text/javascript'; st.async = true; st.src = 'https://www.f6s.com/system/js/widgets'; var ft = document.getElementsByTagName('script')[0]; ft.parentNode.insertBefore(st, ft); })();</script>
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3322739.js"></script>
+<!-- End of HubSpot Embed Code --><!-- End Custom global head codes from panel -->
+</head>
+<body class="home-page venue home-before-page" data-page-type="home" data-bg-type="venue">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'X', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<div class="site-wrapper">
+		<header class="site-header" id="site-header">
+			<div class="logo">
+				<a href="http://www.saarcstartupawards.com">
+										<div class="bg">
+						<div class="outer" id="outer">
+							<canvas id="logo-poly" class="logo-poly" resize></canvas>
+						</div>
+						<div class="logo-text"><img src="http://www.saarcstartupawards.com/assets/images/logo-text.svg"></div>
+					</div>
+				</a>
+			</div>
+			<nav class="navigation" role="navigation" id="top-menu">
+				<ul class="cd-navigation cd-single-item-wrapper">
+										<li class="">
+											<a href="http://www.saarcstartupawards.com/panel-team">SAARC PANEL</a>
+										</li>
+										<li class="">
+											<a href="http://www.saarcstartupawards.com/partner">Partners</a>
+										</li>
+										<li>
+						<a href="#contact">Contact</a>
+					</li>
+										<li class="with-arrow">
+						<a href="https://www.f6s.com/saarcstartup-s1/apply" target="_blank">Apply Now</a>
+					</li>
+									</ul> <!-- cd-single-item-wrapper -->
+				<a href="#" class="mobil-menu-btn fa fa-bars"></a>
+			</nav>
+		</header>
+		<main class="site-main">
+				
+<div class="bg-element bg-3"></div>
+<div class="bg-element bg-5"></div>
+
+<svg class="main-section-bg" id="main-section-bg" data-picture="http://www.saarcstartupawards.com/content/1-home/nordicfront-5.jpg"></svg>
+
+				<section class="main-section">
+					<div class="row" data-0="transform:translate3d(0,0px,0)" data-500="transform:translate3d(0,-30px,0)">
+						<div class="small-12 medium-6 columns">
+							<h1>GSA SAARC 2018</h1>
+							<p>Bridge boundaries using innovation and celebrate entrepreneurship. </p>
+<figure><img src="http://www.saarcstartupawards.com/content/1-home/sisters.png" alt=""></figure>						</div>
+						<div class="small-6 columns btn-play-container hide-for-small-only">
+														<a href="#" class="btn-play" id="show-video">
+								<div>
+									<strong>play</strong>
+									video
+								</div>
+							</a>
+													</div>
+					</div>
+				</section>
+				<section class="info-section" data-0="transform:translate3d(0,0px,0)" data-500="transform:translate3d(0,-60px,0)">
+					<div class="row">
+						<div class="small-12 columns">
+							<div class="tickets-box">
+								<h2 class="title">
+									<p>PART og global startup awards</p>								</h2>
+								<div>
+									<a href="http://www.globalstartupawards.com" class="btn right-arrow">GO GLOBAL</a>
+								</div>
+							</div>
+							<div class="newsletter-box">
+								<h2 class="title">
+									<p>SIGN UP AND BECOME PART OF THE MOVEMENT, DON'T FORGET TO APPLY!</p>								</h2>
+																	<form method="POST" action="newsletter-subscription" class="newsletter-subscribe" id="newsletter-subscribe-hero">
+										<div class="mail-wrapper">
+											<input type="email" name="email" placeholder="Your e-mail" />
+											<button type="submit"></button>
+										</div>
+										<div class="response"></div>
+									</form>
+															</div>
+						</div>
+					</div>
+				</section>
+				
+								<article class="article-section">
+	<div class="row">
+		<div class="medium-12 columns">
+									<div>
+									<p><strong>Global Startup Awards SAARC</strong>, focuses on celebrating the spirit of entrepreneurship and promote bridging boundaries using innovation in our region comprising of <strong>Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka</strong> by appreciating them with our most coveted awards program which will be attended by the top notch entrepreneurs, corporates, investors and ecosystem builders  from Nordic, Central Europe, SAARC and ASEAN. </p>
+<p>Our <strong>Global Cross Pollination Panel</strong> comprising of our alumni network of mentors, entrepreneurs, advisers, ambassadors and Jury from some of the most coveted startups/institutions will help enable your <em>idea to come to reality, scale up to other countries and maybe even get funded</em>. </p>
+<p><em>&quot;Come celebrate entrepreneurship and let's bridge boundaries using innovation.&quot;</em></p>							</div>
+					</div>
+	</div>
+</article>								<section class="gallery-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						
+						<ul class="blocks small-block-grid-5 medium-block-grid-8 large-block-grid-8 block-grid-centered">
+
+				
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/afghanistan.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/afghanistan-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/bangladesh.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/bangladesh-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/bhutan.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/bhutan-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/india.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/india-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/maldives.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/maldives-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/nepal.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/nepal-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/pakistan.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/pakistan-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-saarc-countries" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/2-saarc-countries/srilanka.png"><img src="http://www.saarcstartupawards.com/thumbs/home/saarc-countries/srilanka-147.5x147.5.png" alt=""></a>
+						</div>
+					</li>
+							</ul>
+					</div>
+	</div>
+</section>								<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						
+			
+			<ul class="people small-block-grid-1 medium-block-grid-4 block-grid-centered">
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/3-stakeholders/panel.png" alt="PANEL" />
+						</figure>
+						<div class="info">
+							<h1 class="name">PANEL</h1>
+																												<a href="http://saarcstartupawards.com/panel-team" class="website" rel="nofollow" target="_blank">VISIT THE PANEL</a>
+																					<h2>Description</h2>
+							<p>All Advisors, Ambassadors, Speakers and Jury for GSA SAARC 2018 will constitute SAARC Panel</p>													</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/3-stakeholders/partners.png" alt="PARTNERS" />
+						</figure>
+						<div class="info">
+							<h1 class="name">PARTNERS</h1>
+																												<a href="http://saarcstartupawards.com/partner" class="website" rel="nofollow" target="_blank">VISIT THE PARTNERS</a>
+																					<h2>Description</h2>
+							<p>Every execution, collaboration, publication and community partners constitute the SAARC Partners</p>													</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>								<section class="gallery-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h1 class="h2">Previous Winners</h1>
+						
+						<ul class="blocks small-block-grid-5 medium-block-grid-9 large-block-grid-9 block-grid-centered">
+
+				
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/endomondo.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/endomondo-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/falcon.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/falcon-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/grab.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/grab-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/rainmaking.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/rainmaking-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/realm.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/realm-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/runtastic.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/runtastic-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/supercell.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/supercell-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/truecaller.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/truecaller-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+									<li>
+						<div class="text-center">
+						<a rel="gallery-previous-winners" class="fancybox" href="http://www.saarcstartupawards.com/content/1-home/4-previous-winners/zendesk.png"><img src="http://www.saarcstartupawards.com/thumbs/home/previous-winners/zendesk-131.11111111111x131.11111111111.png" alt=""></a>
+						</div>
+					</li>
+							</ul>
+					</div>
+	</div>
+</section>								<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h2>Categories</h2>
+									<div><p><strong>GSA BASELINE CATEGORIES</strong></p>
+<p>Uniform across all Global Startup Awards regions including the Nordic, Central Europe and ASEAN.  Find out more about your <a href="http://saarcstartupawards.com/categories">categories in here</a>.</p></div>
+			
+			
+			<ul class="people small-block-grid-1 medium-block-grid-4">
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/5-gsa-baseline-categories/startupofyear.png" alt="Startup Of The Year" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Startup Of The Year</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/5-gsa-baseline-categories/newcomer.png" alt="Best Newcomer" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Newcomer</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/5-gsa-baseline-categories/founder-of-the-year-bigger-1.png" alt="Founder of the Year" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Founder of the Year</h1>
+														<div class="country">
+								INDIVIDUAL SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/5-gsa-baseline-categories/investor.png" alt="Investor of the Year" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Investor of the Year</h1>
+														<div class="country">
+								ECOSYSTEM SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/5-gsa-baseline-categories/coworkingspace.png" alt="Best Coworking Space" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Coworking Space</h1>
+														<div class="country">
+								ECOSYSTEM SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/5-gsa-baseline-categories/accelerator.png" alt="Best Accelerator Program" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Accelerator Program</h1>
+														<div class="country">
+								ECOSYSTEM SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>								<article class="article-section">
+	<div class="row">
+		<div class="medium-12 columns">
+									<div>
+									<p><a href="https://www.f6s.com/saarcstartup-s1/apply" rel="noopener noreferrer" class="btn" target="_blank">APPLY NOW!</a></p>							</div>
+					</div>
+	</div>
+</article>								<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+									<div><p><strong>GSA SAARC VERTICAL CATEGORIES</strong></p>
+<p>Specific to SAARC region and identified based on the relevance of the existing ecosystem and their activities. Find out more about your <a href="http://saarcstartupawards.com/categories">categories in here</a>.</p></div>
+			
+			
+			<ul class="people small-block-grid-1 medium-block-grid-4 block-grid-centered">
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/7-gsa-saarc-vertical-categories/socialimpact.png" alt="Best Social Impact Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Social Impact Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/7-gsa-saarc-vertical-categories/fintech.png" alt="Best FinTech Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best FinTech Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/7-gsa-saarc-vertical-categories/best-student-startup-bigger.png" alt="Best Student Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Student Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/7-gsa-saarc-vertical-categories/best-deep-tech-startup-bigger.png" alt="Best Deep Tech Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Deep Tech Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/7-gsa-saarc-vertical-categories/healthtech.png" alt="Best Health Tech Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Health Tech Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/7-gsa-saarc-vertical-categories/best-incubation-program-bigger.png" alt="Best Incubation Program" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Incubation Program</h1>
+														<div class="country">
+								ECOSYSTEM SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/7-gsa-saarc-vertical-categories/best-deep-tech-startup-bigger.png" alt="Best Startup Journalist" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Startup Journalist</h1>
+														<div class="country">
+								ECOSYSTEM SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>								<article class="article-section">
+	<div class="row">
+		<div class="medium-12 columns">
+									<div>
+									<p><a href="https://www.f6s.com/saarcstartup-s1/apply" rel="noopener noreferrer" class="btn" target="_blank">APPLY NOW!</a></p>							</div>
+					</div>
+	</div>
+</article>								<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+									<div><p><strong>GSA SPECIAL MENTION CATEGORIES</strong></p>
+<p>Specific to SAARC region and identified as growing categories which needs more visibility and support. Find out more about your <a href="http://saarcstartupawards.com/categories">categories in here</a>.</p></div>
+			
+			
+			<ul class="people small-block-grid-1 medium-block-grid-4 block-grid-centered">
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/9-gsa-special-mention-categories/best-space-startup-bigger.png" alt="Best Space Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Space Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/9-gsa-special-mention-categories/biotech.png" alt="Best Biotech Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Biotech Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/9-gsa-special-mention-categories/best-agritech-startup-bigger.png" alt="Best AgriTech Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best AgriTech Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/9-gsa-special-mention-categories/best-edutech-startup-bigger.png" alt="Best EduTech Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best EduTech Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/9-gsa-special-mention-categories/best-fashiontech-startup-bigger.png" alt="Best Fashion Tech Startup" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Fashion Tech Startup</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/9-gsa-special-mention-categories/smartcity.png" alt="Best Smart City Solution" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Smart City Solution</h1>
+														<div class="country">
+								STARTUP SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/1-home/9-gsa-special-mention-categories/startupecosystem.png" alt="Best Ecosystem Initiative" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Best Ecosystem Initiative</h1>
+														<div class="country">
+								ECOSYSTEM SEGMENT							</div>
+																																		</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>								<article class="article-section">
+	<div class="row">
+		<div class="medium-12 columns">
+									<div>
+									<p><a href="https://www.f6s.com/saarcstartup-s1/apply" rel="noopener noreferrer" class="btn" target="_blank">APPLY NOW!</a></p>							</div>
+					</div>
+	</div>
+</article>							</main>
+			<footer class="site-footer" id="contact">
+				
+<section class="contact-us-section">
+<!--
+	Contact mail: 	Enviroment: 	Server env: www.saarcstartupawards.com-->
+	<form id="contact-form" action="http://www.saarcstartupawards.com/contactform" method="post">
+		<div class="row">
+			<div class="medium-12 columns">
+				<h2>Contact Us</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-6 medium-offset-6 columns">
+				<div class="message"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="form-element">
+					<input name="name" type="text" placeholder="Your name" />
+				</div>
+				<div class="form-element">
+					<input name="email" type="email" placeholder="Your e-mail" />
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="form-element message-wrapper">
+					<textarea name="message" cols="30" rows="5" placeholder="Message"></textarea>
+				</div>
+				<div class="row">
+					<div class="medium-6 columns">
+						<input name="newsletter" type="checkbox" id="newsletter" value="1" />
+						<label for="newsletter">Subscribe to newsletter</label>
+					</div>
+					<div class="medium-6 columns submit-wrapper">
+						<button type="submit" class="btn right-arrow">Send</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</section>				<section>
+					<div class="row">
+						<div class="medium-12 columns">
+							<h2>Follow Us</h2>
+							<ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5 social-links-wrapper block-grid-centered" id="footer-social-links">
+								<li class="twitter">
+									<a href="https://twitter.com/SAARCstartups" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Twitter</h3>
+									<div class="function">
+										<p><a href="https://twitter.com/SAARCstartups" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @SAARCstartups</a></p>									</div>
+								</li>
+								<li class="fb">
+									<a href="https://www.facebook.com/SAARCstartups" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Facebook</h3>
+									<div class="function">
+										<iframe src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/SAARCstartups&width=90&layout=button_count&action=like&show_faces=false&share=false&height=21&appId=1422969134616830" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>									</div>
+								</li>
+								<li class="youtube">
+									<a href="http://www.youtube.com/user/TheStartupAwards" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Youtube</h3>
+									<div class="function">
+										<div class="g-ytsubscribe" data-channel="TheStartupAwards" data-layout="default" data-count="default"></div>									</div>
+								</li>
+																<li class="newsletter">
+									<div class="logo ss-mail"></div>
+									<h3 class="title">Subscribe to newsletter</h3>
+									<div class="function">
+										<form method="POST" action="newsletter-subscription" class="newsletter-subscribe" id="newsletter-subscribe-footer">
+											<div class="mail-wrapper">
+												<input type="email" name="email" placeholder="Your e-mail" />
+												<button type="submit"></button>
+											</div>
+											<div class="response"></div>
+										</form>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+			</footer>
+
+			
+<nav id="cd-lateral-nav" data-site-url="http://www.saarcstartupawards.com" data-page-url="http://www.saarcstartupawards.com/home">
+	<ul class="cd-navigation">
+				<li class="">
+			<a href="http://www.saarcstartupawards.com/home">GSA SAARC 2018</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/home">Visit GSA SAARC 2018</a></li>
+			</ul>
+		</li>
+				<li class=" show-for-small-only">
+			<a href="http://www.saarcstartupawards.com/panel-team">SAARC PANEL</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/panel-team">Visit SAARC PANEL</a></li>
+			</ul>
+		</li>
+				<li class=" show-for-small-only">
+			<a href="http://www.saarcstartupawards.com/partner">Partners</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/partner">Visit Partners</a></li>
+			</ul>
+		</li>
+				<li class="show-for-small-only">
+			<a href="#contact">Contact</a>
+		</li>
+	</ul> <!-- cd-single-item-wrapper -->
+
+	
+</nav>		</div><!-- end .site-wrapper -->
+
+				<div class="video-overlay" id="videoOverlay">
+			<a href="#" class="ss-delete ss-icon js-hide-vid"></a>
+			<div class="video-wrapper">
+				<div class="flex-video widescreen no-margin" style=""><figure class="video"><iframe src="//youtube.com/embed/2xedWpetlQc" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe></figure></div>			</div>
+		</div>
+		
+		<script src="https://apis.google.com/js/platform.js"></script>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+				<script src="http://www.saarcstartupawards.com/assets/js/site.min.js"></script>
+			<script type="text/paperscript" canvas="logo-poly" src="http://www.saarcstartupawards.com/assets/js/logo-poly.min.js"></script>
+		</body>
+</html>

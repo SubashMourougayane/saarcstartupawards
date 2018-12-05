@@ -1,0 +1,1221 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Global Startup Awards - SAARC | SAARC PANEL</title>
+	<meta name="description" content="Global Startup Awards SAARC, focuses on celebrating the spirit of entrepreneurship and promote bridging boundaries using innovation in our region comprising of Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka by appreciating them with our most coveted awards program which will be attended by the top notch entrepreneurs, corporates, investors and ecosystem builders from Nordic, Central Europe, SAARC and ASEAN.
+
+The Grand Finale, a showdown of conferences, awards shows, exhibitions, hackathons, workshops and pitch sessions, is expected to have a turnout of 6000+ attendees. The top 150+ celebrity entrepreneurs, 100+ investors, 50+ corporate innovation hubs, 20+ media houses from across the world are joining hands to support you and enable you with a never before exposure, this becomes a one stop shop for entrepreneurs every year.
+
+Our Global Cross Pollination Panel comprising of our alumni network of mentors, entrepreneurs, advisers, ambassadors and Jury from some of the most coveted startups/institutions will help enable your idea to come to reality, scale up to other countries and maybe even get funded.
+
+"Come celebrate entrepreneurship and let's bridge boundaries using innovation."">
+	<meta name="keywords" content="Startup,Awards,Startup Awards,entrepreneur,innovation,India,Pakistan,Bangladesh,Community,Clusters,Nepal,Afghanistan">
+		<meta name="author" content="Jerric Lyns John">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="cleartype" content="on">
+
+		<meta property="og:title" content="Global Startup Awards - SAARC | SAARC PANEL"/>
+	
+
+	<meta property="og:image" content="http://saarcstartupawards.com/content/webshare.png"/>
+	<meta property="og:url" content="http://www.saarcstartupawards.com"/>
+	<meta property="og:site_name" content="Global Startup Awards - SAARC"/>
+	<meta property="og:description" content="Global Startup Awards SAARC, focuses on celebrating the spirit of entrepreneurship and promote bridging boundaries using innovation in our region comprising of Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka by appreciating them with our most coveted awards program which will be attended by the top notch entrepreneurs, corporates, investors and ecosystem builders from Nordic, Central Europe, SAARC and ASEAN.
+
+The Grand Finale, a showdown of conferences, awards shows, exhibitions, hackathons, workshops and pitch sessions, is expected to have a turnout of 6000+ attendees. The top 150+ celebrity entrepreneurs, 100+ investors, 50+ corporate innovation hubs, 20+ media houses from across the world are joining hands to support you and enable you with a never before exposure, this becomes a one stop shop for entrepreneurs every year.
+
+Our Global Cross Pollination Panel comprising of our alumni network of mentors, entrepreneurs, advisers, ambassadors and Jury from some of the most coveted startups/institutions will help enable your idea to come to reality, scale up to other countries and maybe even get funded.
+
+"Come celebrate entrepreneurship and let's bridge boundaries using innovation.""/>
+	<meta property="og:type" content="website"/>
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=wAAKEnzNBn">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png?v=wAAKEnzNBn" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-194x194.png?v=wAAKEnzNBn" sizes="194x194">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png?v=wAAKEnzNBn" sizes="96x96">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=wAAKEnzNBn" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png?v=wAAKEnzNBn" sizes="16x16">
+	<link rel="manifest" href="/manifest.json?v=wAAKEnzNBn">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg?v=wAAKEnzNBn" color="#5bbad5">
+	<link rel="shortcut icon" href="/favicon.ico?v=wAAKEnzNBn">
+	<meta name="apple-mobile-web-app-title" content="Startup Awards India">
+	<meta name="application-name" content="Startup Awards India">
+	<meta name="msapplication-TileColor" content="#ffc40d">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=wAAKEnzNBn">
+	<meta name="theme-color" content="#ffffff">
+
+			<script src="http://www.saarcstartupawards.com/assets/js/modernizr.min.js"></script>
+				<script src="http://www.saarcstartupawards.com/assets/js/paper.min.js"></script>
+				<link rel="stylesheet" href="http://www.saarcstartupawards.com/assets/css/style.min.css">	
+	
+<!-- Custom global head codes from panel -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '547090995483108');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=547090995483108&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">var F6S_v1 = F6S_v1 || {}; F6S_v1.params = F6S_v1.params || []; F6S_v1.params.push({ type: 'widget', widgetType: 'apply-countdown-button', containerId: 'f6s-apply-59f0c3d2beac6' });(function() { var st = document.createElement('script'); st.type = 'text/javascript'; st.async = true; st.src = 'https://www.f6s.com/system/js/widgets'; var ft = document.getElementsByTagName('script')[0]; ft.parentNode.insertBefore(st, ft); })();</script>
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3322739.js"></script>
+<!-- End of HubSpot Embed Code --><!-- End Custom global head codes from panel -->
+</head>
+<body class="default-page blue" data-page-type="default" data-bg-type="blue">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'X', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<div class="site-wrapper">
+		<header class="site-header" id="site-header">
+			<div class="logo">
+				<a href="http://www.saarcstartupawards.com">
+										<div class="bg">
+						<div class="outer" id="outer">
+							<canvas id="logo-poly" class="logo-poly" resize></canvas>
+						</div>
+						<div class="logo-text"><img src="http://www.saarcstartupawards.com/assets/images/logo-text.svg"></div>
+					</div>
+				</a>
+			</div>
+			<nav class="navigation" role="navigation" id="top-menu">
+				<ul class="cd-navigation cd-single-item-wrapper">
+										<li class="active">
+											<a href="http://www.saarcstartupawards.com/panel-team">SAARC PANEL</a>
+										</li>
+										<li class="">
+											<a href="http://www.saarcstartupawards.com/partner">Partners</a>
+										</li>
+										<li>
+						<a href="#contact">Contact</a>
+					</li>
+										<li class="with-arrow">
+						<a href="https://www.f6s.com/saarcstartup-s1/apply" target="_blank">Apply Now</a>
+					</li>
+									</ul> <!-- cd-single-item-wrapper -->
+				<a href="#" class="mobil-menu-btn fa fa-bars"></a>
+			</nav>
+		</header>
+		<main class="site-main">
+
+<div class="bg-element bg-1"></div>
+<div class="bg-element bg-2"></div>
+<div class="bg-element bg-4"></div>
+
+
+<svg class="main-section-bg" id="main-section-bg" ></svg>
+
+<section class="main-section">
+	<div class="row">
+		<div class="small-12 columns" data-0="transform:translate3d(0,0px,0)" data-500="transform:translate3d(0,-20px,0)">
+			<h1>SAARC PANEL</h1>
+					</div>
+	</div>
+</section>
+
+<div data-0="transform:translate3d(0,0px,0)" data-500="transform:translate3d(0,-50px,0)">
+
+
+
+<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h2>Jury</h2>
+						
+			
+			<ul class="people small-block-grid-1 medium-block-grid-4 block-grid-centered">
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/1-jury/adarsh.png" alt="Adarsh Narahari" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Adarsh Narahari</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Managing Director</p>							</div>
+																					<a href="https://www.linkedin.com/in/adarsh-narahari-08b72592/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/1-jury/gsa_ashish_kashyap.png" alt="Ashish Kashyap" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Ashish Kashyap</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Founder - ibibo (Goibibo.com, redBus.com)</p>							</div>
+																					<a href="https://www.linkedin.com/in/ashishkashyap/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/1-jury/geetansh.png" alt="Geetansh Bamania" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Geetansh Bamania</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Founder at Rentomojo</p>							</div>
+																					<a href="https://www.linkedin.com/in/geetanshbamania/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/1-jury/naveen.png" alt="Naveen Asrani" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Naveen Asrani</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Director at Startups,Microsoft Corporation,India</p>							</div>
+																					<a href="https://www.linkedin.com/in/naveenasrani/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/1-jury/gsa_ravindrasingh.png" alt="Ravinder Singh" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Ravinder Singh</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Chief Information &amp; Innovation Officer Tata Singapore Airlines.</p>							</div>
+																					<a href="https://www.linkedin.com/in/ravinps/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/1-jury/swati.png" alt="Swati Bhargava" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Swati Bhargava</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Co-Founder at CashKaro</p>							</div>
+																					<a href="https://www.linkedin.com/in/swatidbhargava/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h2>Ambassadors</h2>
+						
+			
+			<ul class="people small-block-grid-1 medium-block-grid-4 block-grid-centered">
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/ahamed-nishadh_ambassador.png" alt="Ahamed Nishadh" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Ahamed Nishadh</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>Project Manager at ICT Agency of Sri Lanka</p>							</div>
+																					<a href="https://www.linkedin.com/in/ahamednishadh/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/ajayshrestha.png" alt="Ajay Shrestha" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Ajay Shrestha</h1>
+														<div class="country">
+								Nepal							</div>
+																					<div class="position">
+								<p>Chairman &amp; MD at iCAPITAL</p>							</div>
+																					<a href="https://www.linkedin.com/in/shresthaajay/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/aloka-gunasekara_ambassador.png" alt="Aloka Gunasekara" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Aloka Gunasekara</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>Proram manager at StartupX Foundry</p>							</div>
+																					<a href="https://www.linkedin.com/in/alokagunasekara/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/anil-joshi_ambassador.png" alt="Anil Joshi" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Anil Joshi</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Managing Partner at Unicorn India Ventures</p>							</div>
+																					<a href="https://www.linkedin.com/in/aniljoshi74/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/anushka-wijesinha.png" alt="Anushka Wijesinha" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Anushka Wijesinha</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>Chief Economist at Ceylon Chamber of Commerce</p>							</div>
+																					<a href="https://www.linkedin.com/in/anushkawijesinha/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/apurva-mudgal_ambassador.png" alt="Apurva Mudgal" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Apurva Mudgal</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>VP, Product at Haptik</p>							</div>
+																					<a href="https://www.linkedin.com/in/amudgal/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa_saarc_ashu.png" alt="Ashu Agrawal" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Ashu Agrawal</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Founder Director @ BW Accelerate</p>							</div>
+																					<a href="https://www.linkedin.com/in/ashuagrawal/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/balaji.png" alt="Balaji Viswanathan" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Balaji Viswanathan</h1>
+														<div class="country">
+								VP, Product at Invento Tech							</div>
+																												<a href="https://www.linkedin.com/in/balajivi/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/brijesh.png" alt="Brijesh Agrawal" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Brijesh Agrawal</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Co-founder &amp; Director at IndiaMART</p>							</div>
+																					<a href="https://www.linkedin.com/in/brijeshagrawal/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/chalinda-abeykoon_ambassador.png" alt="Chalinda Abeykoon" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Chalinda Abeykoon</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>CEO at CrowdIsland</p>							</div>
+																					<a href="https://www.linkedin.com/in/chalindaabeykoon/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa_drritesh1.png" alt="Dr. Ritesh Malik" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Dr. Ritesh Malik</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Angel Investor / Co-Founder @ Innov8</p>							</div>
+																					<a href="https://www.linkedin.com/in/dr-ritesh-malik-877a87a/?ppe=1" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/kranti.png" alt="Kranti M" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Kranti M</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Director at UX Design Labs</p>							</div>
+																					<a href="https://www.linkedin.com/in/krantiakm/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/kunal-sachdeva.png" alt="Kunal Sachdeva" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Kunal Sachdeva</h1>
+														<div class="country">
+								Germany							</div>
+																					<div class="position">
+								<p>Executive Director at Ernst &amp; Young</p>							</div>
+																					<a href="https://www.linkedin.com/in/sachkunal/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa_manish_singhal.png" alt="Manish Singhal" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Manish Singhal</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Angel Investor, pi Ventures</p>							</div>
+																					<a href="https://www.linkedin.com/in/smanishsinghal/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/nehajain.png" alt="Neha Jain" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Neha Jain</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Co-Founder at Z NationLab</p>							</div>
+																					<a href="https://www.linkedin.com/in/neha-jain-820ab5120/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/nidhi.png" alt="Nidhi Saraf" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Nidhi Saraf</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Founder &amp; CEO at Key Venture</p>							</div>
+																					<a href="https://www.linkedin.com/in/nidhi-saraf-8616b720/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa_nitinsethi.png" alt="Nitin Sethi" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Nitin Sethi</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>VP Product Design &amp; User Experience at Quikr | Former UX Head of Yatra, Naukri</p>							</div>
+																					<a href="https://www.linkedin.com/in/connect2nitin/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/omar-mansoor-ansari.png" alt="Omar Mansoor Ansari" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Omar Mansoor Ansari</h1>
+														<div class="country">
+								Afghanistan							</div>
+																					<div class="position">
+								<p>President at TechNation</p>							</div>
+																					<a href="https://www.linkedin.com/in/omansari/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa-pranay.png" alt="Pranay Gupta" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Pranay Gupta</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Co-Founder , 91springboard</p>							</div>
+																					<a href="https://www.linkedin.com/in/pranayg/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa_rahul_narvekar.png" alt="Rahul Narvekar" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Rahul Narvekar</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Ex-CEO NDTV Indianroots</p>							</div>
+																					<a href="https://www.linkedin.com/in/narvekarrahul/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa_shalini.png" alt="Shalini Prakash" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Shalini Prakash</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Venture Partner | 500 Startups</p>							</div>
+																					<a href="https://www.linkedin.com/in/shaliniprakash/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/gsa_saarc_shradha.png" alt="Shradha Sharma" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Shradha Sharma</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Founder &amp; CEO at YourStory Media</p>							</div>
+																					<a href="https://www.linkedin.com/in/sharmashradha/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/shusanto.png" alt="Sushanto Mitra" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Sushanto Mitra</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Founder &amp; CEO at Lead Angels Network</p>							</div>
+																					<a href="https://www.linkedin.com/in/sushantomitra/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/tashi-wangdi.png" alt="Tashi Wangdi" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Tashi Wangdi</h1>
+														<div class="country">
+								Bhutan							</div>
+																					<div class="position">
+								<p>Manager at iHub Bhutan</p>							</div>
+																					<a href="https://www.linkedin.com/in/tashi-wangdi-b73a41124/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/varatharaja-kumaraguru.png" alt="Varatharaja Kumaraguru" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Varatharaja Kumaraguru</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>CEO at Youth Business Sri Lanka</p>							</div>
+																					<a href="https://www.linkedin.com/in/kumaraguru-varatharaja-1612b618/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/warda-altaf.png" alt="Warda Altaf" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Warda Altaf</h1>
+														<div class="country">
+								Pakistan							</div>
+																					<div class="position">
+								<p>Assistant Program Manager at TechHub Connect</p>							</div>
+																					<a href="https://www.linkedin.com/in/wardaaltaf/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/2-ambassadors/zainab.png" alt="Zainab Tariq" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Zainab Tariq</h1>
+														<div class="country">
+								Pakistan							</div>
+																					<div class="position">
+								<p>Manager at Plan9 - Tech Incubator</p>							</div>
+																					<a href="https://www.linkedin.com/in/zainabt/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h2>Advisory Board</h2>
+						
+			
+			<ul class="people small-block-grid-1 medium-block-grid-4 block-grid-centered">
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/sai_advisor_aakarsh_naidu.png" alt="Aakarsh Naidu" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Aakarsh Naidu</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Ecosystem Representative, NSRCEL - IIMB</p>							</div>
+																					<a href="https://www.linkedin.com/in/aakarsh-naidu-621a682a" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/aditya-arora.png" alt="Aditya Arora" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Aditya Arora</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>CEO at Faad Times</p>							</div>
+																					<a href="https://www.linkedin.com/in/aditya-arora-13ab87105/" class="website" rel="nofollow" target="_blank">Linkedin</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/ahmed.png" alt="Ahamed Nishadh" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Ahamed Nishadh</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>Project Manager - ICT Agency of Sri Lanka</p>							</div>
+																					<a href="https://www.linkedin.com/in/ahamednishadh/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/ajayshreshta.png" alt="Ajay Shrestha" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Ajay Shrestha</h1>
+														<div class="country">
+								Nepal							</div>
+																					<div class="position">
+								<p>Chairman &amp; MD at iCAPITAL</p>							</div>
+																					<a href="https://www.linkedin.com/in/shresthaajay/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/aloka.png" alt="Aloka Gunasekara" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Aloka Gunasekara</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>Program Manager, StartupX Foundry</p>							</div>
+																					<a href="https://www.linkedin.com/in/alokagunasekara/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_amarnath-sankar.png" alt="Amarnath Sankar" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Amarnath Sankar</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>CEO at CAT Entertainments Pvt Ltd &amp; Co-Founder at TastySpots</p>							</div>
+																					<a href="https://www.linkedin.com/in/amarnath-sankar-142a59a/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_anilchhikara.png" alt="Anil Chhikara" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Anil Chhikara</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Serial Entrepreneur, Anchor Judge @ India's 1st Startup Reality TV Show</p>							</div>
+																					<a href="https://www.linkedin.com/in/anilchhikara/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/anushka.png" alt="Anushka Wijesinha" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Anushka Wijesinha</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>Chief Economist - Ceylon Chamber of Commerce</p>							</div>
+																					<a href="https://www.linkedin.com/in/anushkawijesinha/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_bruno.png" alt="Dr. Bruno Rondani" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Dr. Bruno Rondani</h1>
+														<div class="country">
+								Brazil							</div>
+																					<div class="position">
+								<p>Founder and CEO, 100 Open Startups</p>							</div>
+																					<a href="https://www.linkedin.com/in/brunorondani/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_ckk.png" alt="C K Kumaravel" />
+						</figure>
+						<div class="info">
+							<h1 class="name">C K Kumaravel</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>CEO &amp; Co-founder, Naturals Salon &amp; Spa</p>							</div>
+																					<a href="https://www.linkedin.com/in/ck-kumaravel-naturals/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_chalindaabeykoon.png" alt="Chalinda Abeykoon" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Chalinda Abeykoon</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>CEO - CROWDISLAND PVT LTD</p>							</div>
+																					<a href="https://www.linkedin.com/in/chalindaabeykoon/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_dhruv.png" alt="Dhruv Sehra" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Dhruv Sehra</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Works at Kalaari Capital, Executive Council at Kairos Society India</p>							</div>
+																					<a href="https://www.linkedin.com/in/dhruv-sehra-116b0528/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/sai_advisor_gautham.png" alt="Gautham Nair" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Gautham Nair</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>COO, Startup Village</p>							</div>
+																					<a href="https://www.linkedin.com/in/gauthammobme" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_advisor_kunal.png" alt="Kunal Sachdeva" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Kunal Sachdeva</h1>
+														<div class="country">
+								Germany							</div>
+																					<div class="position">
+								<p>Executive Director, EY</p>							</div>
+																					<a href="https://www.linkedin.com/in/sachkunal/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/mohan.png" alt="Mohan Ram" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Mohan Ram</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Partnerships Manager - DigitalOcean</p>							</div>
+																					<a href="https://www.linkedin.com/in/mohanram1/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_nitishkagarwal.png" alt="Nitish K Agrawal" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Nitish K Agrawal</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Head - Asia Pacific &amp; Japan, Startup Focus Program at SAP</p>							</div>
+																					<a href="https://www.linkedin.com/in/nitishkagrawal/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/nurul.png" alt="Nurul Hasnat Ove" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Nurul Hasnat Ove</h1>
+														<div class="country">
+								Bangladesh							</div>
+																					<div class="position">
+								<p>President - LDA Bangladesh</p>							</div>
+																					<a href="https://www.linkedin.com/in/nurulhasnatove/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/omar.png" alt="Omar Mansoor Ansari" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Omar Mansoor Ansari</h1>
+														<div class="country">
+								Afghanistan							</div>
+																					<div class="position">
+								<p>President - TechNation</p>							</div>
+																					<a href="https://www.linkedin.com/in/omansari/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/sai_advisor_prathibha_shastri.png" alt="Prathibha Sastry" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Prathibha Sastry</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Startup Evangelist, iSpirit</p>							</div>
+																					<a href="https://www.linkedin.com/in/prathibhasastry" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_rahathossain.png" alt="Rahat Hossain" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Rahat Hossain</h1>
+														<div class="country">
+								Bangladesh							</div>
+																					<div class="position">
+								<p>Program Director at CriticaLink</p>							</div>
+																					<a href="https://www.linkedin.com/in/rahathossain/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_rakeshmurali.png" alt="Rakesh Murali" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Rakesh Murali</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Co Founder at Stratonik</p>							</div>
+																					<a href="https://www.linkedin.com/in/rakesh-murali-84899771/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_sanjay.png" alt="Sanjay Enishetty" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Sanjay Enishetty</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>MD &amp; CEO - 50k Ventures</p>							</div>
+																					<a href="https://www.linkedin.com/in/sanjayenishetty/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_sundarnatarajan.png" alt="Sundar Natarajan" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Sundar Natarajan</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>Senior Manager - Quality &amp; Customer Relations at Bangalore International Airport Limited</p>							</div>
+																					<a href="https://www.linkedin.com/in/sundar-natarajan-9457502/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/tashiwangdi.png" alt="Tashi Wangdi" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Tashi Wangdi</h1>
+														<div class="country">
+								Bhutan							</div>
+																					<div class="position">
+								<p>Creative Manager - iHub Bhutan</p>							</div>
+																					<a href="https://www.linkedin.com/in/tashi-wangdi-b73a41124/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_varadraj_krishnan.png" alt="Varadarajan Krishna" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Varadarajan Krishna</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>MD - ASIA &amp; MENA, 100 Open Startups</p>							</div>
+																					<a href="https://www.linkedin.com/in/krishvarad/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/guru.png" alt="Varatharaja Kumaraguru" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Varatharaja Kumaraguru</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																					<div class="position">
+								<p>CEO - Youth Business Sri Lanka</p>							</div>
+																					<a href="https://angel.co/varatharaja-kumaraguru" class="website" rel="nofollow" target="_blank">Angel List</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/warda.png" alt="Warda Altaf" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Warda Altaf</h1>
+														<div class="country">
+								Pakistan							</div>
+																					<div class="position">
+								<p>Assistant Program Manager, TechHub Connect</p>							</div>
+																					<a href="https://www.linkedin.com/in/wardaaltaf/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal-small">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/2-panel-team/3-advisory-board/gsa_zainabtariq.png" alt="Zainab Tariq" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Zainab Tariq</h1>
+														<div class="country">
+								Pakistan							</div>
+																					<div class="position">
+								<p>Manager at Plan9 - Tech Incubator</p>							</div>
+																					<a href="https://www.linkedin.com/in/zainabt/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																				</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+			</main>
+			<footer class="site-footer" id="contact">
+				
+<section class="contact-us-section">
+<!--
+	Contact mail: 	Enviroment: 	Server env: www.saarcstartupawards.com-->
+	<form id="contact-form" action="http://www.saarcstartupawards.com/contactform" method="post">
+		<div class="row">
+			<div class="medium-12 columns">
+				<h2>Contact Us</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-6 medium-offset-6 columns">
+				<div class="message"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="form-element">
+					<input name="name" type="text" placeholder="Your name" />
+				</div>
+				<div class="form-element">
+					<input name="email" type="email" placeholder="Your e-mail" />
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="form-element message-wrapper">
+					<textarea name="message" cols="30" rows="5" placeholder="Message"></textarea>
+				</div>
+				<div class="row">
+					<div class="medium-6 columns">
+						<input name="newsletter" type="checkbox" id="newsletter" value="1" />
+						<label for="newsletter">Subscribe to newsletter</label>
+					</div>
+					<div class="medium-6 columns submit-wrapper">
+						<button type="submit" class="btn right-arrow">Send</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</section>				<section>
+					<div class="row">
+						<div class="medium-12 columns">
+							<h2>Follow Us</h2>
+							<ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5 social-links-wrapper block-grid-centered" id="footer-social-links">
+								<li class="twitter">
+									<a href="https://twitter.com/SAARCstartups" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Twitter</h3>
+									<div class="function">
+										<p><a href="https://twitter.com/SAARCstartups" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @SAARCstartups</a></p>									</div>
+								</li>
+								<li class="fb">
+									<a href="https://www.facebook.com/SAARCstartups" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Facebook</h3>
+									<div class="function">
+										<iframe src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/SAARCstartups&width=90&layout=button_count&action=like&show_faces=false&share=false&height=21&appId=1422969134616830" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>									</div>
+								</li>
+								<li class="youtube">
+									<a href="http://www.youtube.com/user/TheStartupAwards" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Youtube</h3>
+									<div class="function">
+										<div class="g-ytsubscribe" data-channel="TheStartupAwards" data-layout="default" data-count="default"></div>									</div>
+								</li>
+																<li class="newsletter">
+									<div class="logo ss-mail"></div>
+									<h3 class="title">Subscribe to newsletter</h3>
+									<div class="function">
+										<form method="POST" action="newsletter-subscription" class="newsletter-subscribe" id="newsletter-subscribe-footer">
+											<div class="mail-wrapper">
+												<input type="email" name="email" placeholder="Your e-mail" />
+												<button type="submit"></button>
+											</div>
+											<div class="response"></div>
+										</form>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+			</footer>
+
+			
+<nav id="cd-lateral-nav" data-site-url="http://www.saarcstartupawards.com" data-page-url="http://www.saarcstartupawards.com/panel-team">
+	<ul class="cd-navigation">
+				<li class="">
+			<a href="http://www.saarcstartupawards.com/home">GSA SAARC 2018</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/home">Visit GSA SAARC 2018</a></li>
+			</ul>
+		</li>
+				<li class=" show-for-small-only">
+			<a href="http://www.saarcstartupawards.com/panel-team">SAARC PANEL</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/panel-team">Visit SAARC PANEL</a></li>
+			</ul>
+		</li>
+				<li class=" show-for-small-only">
+			<a href="http://www.saarcstartupawards.com/partner">Partners</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/partner">Visit Partners</a></li>
+			</ul>
+		</li>
+				<li class="show-for-small-only">
+			<a href="#contact">Contact</a>
+		</li>
+	</ul> <!-- cd-single-item-wrapper -->
+
+	
+</nav>		</div><!-- end .site-wrapper -->
+
+		
+		<script src="https://apis.google.com/js/platform.js"></script>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+				<script src="http://www.saarcstartupawards.com/assets/js/site.min.js"></script>
+			<script type="text/paperscript" canvas="logo-poly" src="http://www.saarcstartupawards.com/assets/js/logo-poly.min.js"></script>
+		</body>
+</html>
+</div>

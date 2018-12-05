@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Global Startup Awards - SAARC | Partners</title>
+	<meta name="description" content="Global Startup Awards SAARC, focuses on celebrating the spirit of entrepreneurship and promote bridging boundaries using innovation in our region comprising of Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka by appreciating them with our most coveted awards program which will be attended by the top notch entrepreneurs, corporates, investors and ecosystem builders from Nordic, Central Europe, SAARC and ASEAN.
+
+The Grand Finale, a showdown of conferences, awards shows, exhibitions, hackathons, workshops and pitch sessions, is expected to have a turnout of 6000+ attendees. The top 150+ celebrity entrepreneurs, 100+ investors, 50+ corporate innovation hubs, 20+ media houses from across the world are joining hands to support you and enable you with a never before exposure, this becomes a one stop shop for entrepreneurs every year.
+
+Our Global Cross Pollination Panel comprising of our alumni network of mentors, entrepreneurs, advisers, ambassadors and Jury from some of the most coveted startups/institutions will help enable your idea to come to reality, scale up to other countries and maybe even get funded.
+
+"Come celebrate entrepreneurship and let's bridge boundaries using innovation."">
+	<meta name="keywords" content="Startup,Awards,Startup Awards,entrepreneur,innovation,India,Pakistan,Bangladesh,Community,Clusters,Nepal,Afghanistan">
+		<meta name="author" content="Jerric Lyns John">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="cleartype" content="on">
+
+		<meta property="og:title" content="Global Startup Awards - SAARC | Partners"/>
+	
+
+	<meta property="og:image" content="http://saarcstartupawards.com/content/webshare.png"/>
+	<meta property="og:url" content="http://www.saarcstartupawards.com"/>
+	<meta property="og:site_name" content="Global Startup Awards - SAARC"/>
+	<meta property="og:description" content="Global Startup Awards SAARC, focuses on celebrating the spirit of entrepreneurship and promote bridging boundaries using innovation in our region comprising of Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka by appreciating them with our most coveted awards program which will be attended by the top notch entrepreneurs, corporates, investors and ecosystem builders from Nordic, Central Europe, SAARC and ASEAN.
+
+The Grand Finale, a showdown of conferences, awards shows, exhibitions, hackathons, workshops and pitch sessions, is expected to have a turnout of 6000+ attendees. The top 150+ celebrity entrepreneurs, 100+ investors, 50+ corporate innovation hubs, 20+ media houses from across the world are joining hands to support you and enable you with a never before exposure, this becomes a one stop shop for entrepreneurs every year.
+
+Our Global Cross Pollination Panel comprising of our alumni network of mentors, entrepreneurs, advisers, ambassadors and Jury from some of the most coveted startups/institutions will help enable your idea to come to reality, scale up to other countries and maybe even get funded.
+
+"Come celebrate entrepreneurship and let's bridge boundaries using innovation.""/>
+	<meta property="og:type" content="website"/>
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png?v=wAAKEnzNBn">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png?v=wAAKEnzNBn">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png?v=wAAKEnzNBn" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-194x194.png?v=wAAKEnzNBn" sizes="194x194">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png?v=wAAKEnzNBn" sizes="96x96">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png?v=wAAKEnzNBn" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png?v=wAAKEnzNBn" sizes="16x16">
+	<link rel="manifest" href="/manifest.json?v=wAAKEnzNBn">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg?v=wAAKEnzNBn" color="#5bbad5">
+	<link rel="shortcut icon" href="/favicon.ico?v=wAAKEnzNBn">
+	<meta name="apple-mobile-web-app-title" content="Startup Awards India">
+	<meta name="application-name" content="Startup Awards India">
+	<meta name="msapplication-TileColor" content="#ffc40d">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png?v=wAAKEnzNBn">
+	<meta name="theme-color" content="#ffffff">
+
+			<script src="http://www.saarcstartupawards.com/assets/js/modernizr.min.js"></script>
+				<script src="http://www.saarcstartupawards.com/assets/js/paper.min.js"></script>
+				<link rel="stylesheet" href="http://www.saarcstartupawards.com/assets/css/style.min.css">	
+	
+<!-- Custom global head codes from panel -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '547090995483108');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=547090995483108&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">var F6S_v1 = F6S_v1 || {}; F6S_v1.params = F6S_v1.params || []; F6S_v1.params.push({ type: 'widget', widgetType: 'apply-countdown-button', containerId: 'f6s-apply-59f0c3d2beac6' });(function() { var st = document.createElement('script'); st.type = 'text/javascript'; st.async = true; st.src = 'https://www.f6s.com/system/js/widgets'; var ft = document.getElementsByTagName('script')[0]; ft.parentNode.insertBefore(st, ft); })();</script>
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3322739.js"></script>
+<!-- End of HubSpot Embed Code --><!-- End Custom global head codes from panel -->
+</head>
+<body class="default-page red-purple" data-page-type="default" data-bg-type="red-purple">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'X', 'auto');
+  ga('send', 'pageview');
+
+</script>
+	<div class="site-wrapper">
+		<header class="site-header" id="site-header">
+			<div class="logo">
+				<a href="http://www.saarcstartupawards.com">
+										<div class="bg">
+						<div class="outer" id="outer">
+							<canvas id="logo-poly" class="logo-poly" resize></canvas>
+						</div>
+						<div class="logo-text"><img src="http://www.saarcstartupawards.com/assets/images/logo-text.svg"></div>
+					</div>
+				</a>
+			</div>
+			<nav class="navigation" role="navigation" id="top-menu">
+				<ul class="cd-navigation cd-single-item-wrapper">
+										<li class="">
+											<a href="http://www.saarcstartupawards.com/panel-team">SAARC PANEL</a>
+										</li>
+										<li class="active">
+											<a href="http://www.saarcstartupawards.com/partner">Partners</a>
+										</li>
+										<li>
+						<a href="#contact">Contact</a>
+					</li>
+										<li class="with-arrow">
+						<a href="https://www.f6s.com/saarcstartup-s1/apply" target="_blank">Apply Now</a>
+					</li>
+									</ul> <!-- cd-single-item-wrapper -->
+				<a href="#" class="mobil-menu-btn fa fa-bars"></a>
+			</nav>
+		</header>
+		<main class="site-main">
+
+<div class="bg-element bg-3"></div>
+<div class="bg-element bg-5"></div>
+
+<svg class="main-section-bg" id="main-section-bg" ></svg>
+
+<section class="main-section">
+	<div class="row">
+		<div class="small-12 columns" data-0="transform:translate3d(0,0px,0)" data-500="transform:translate3d(0,-20px,0)">
+			<h1>Partners</h1>
+					</div>
+	</div>
+</section>
+
+<div data-0="transform:translate3d(0,0px,0)" data-500="transform:translate3d(0,-50px,0)">
+
+
+
+<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h2>Country Partners</h2>
+						
+			
+			<ul class="people small-block-grid-1 medium-block-grid-2 block-grid-centered">
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/91s.png" alt="91springboard" />
+						</figure>
+						<div class="info">
+							<h1 class="name">91springboard</h1>
+														<div class="country">
+								India							</div>
+																												<a href="http://91springboard.com" class="website" rel="nofollow" target="_blank">91springboard.com</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/nasscom.png" alt="10,000 Startups" />
+						</figure>
+						<div class="info">
+							<h1 class="name">10,000 Startups</h1>
+														<div class="country">
+								India							</div>
+																												<a href="http://10000startups.com/" class="website" rel="nofollow" target="_blank">10000startups.com</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/techhub.png" alt="NEN, TechHub" />
+						</figure>
+						<div class="info">
+							<h1 class="name">NEN, TechHub</h1>
+														<div class="country">
+								Pakistan							</div>
+																												<a href="http://techhubconnect.pitb.gov.pk/" class="website" rel="nofollow" target="_blank">techhubconnect.pitb.gov.pk</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/nyef.png" alt="NYEF" />
+						</figure>
+						<div class="info">
+							<h1 class="name">NYEF</h1>
+														<div class="country">
+								Nepal							</div>
+																												<a href="http://www.nyef.org.np/" class="website" rel="nofollow" target="_blank">nyef.org.np</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/i-hub.png" alt="iHub Bhutan" />
+						</figure>
+						<div class="info">
+							<h1 class="name">iHub Bhutan</h1>
+														<div class="country">
+								Bhutan							</div>
+																												<a href="http://ihub.bt/" class="website" rel="nofollow" target="_blank">ihub.bt</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/technation.png" alt="TechNation" />
+						</figure>
+						<div class="info">
+							<h1 class="name">TechNation</h1>
+														<div class="country">
+								Afghanistan							</div>
+																												<a href="http://technation.af/" class="website" rel="nofollow" target="_blank">technation.af</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/lda-b.png" alt="LDA" />
+						</figure>
+						<div class="info">
+							<h1 class="name">LDA</h1>
+														<div class="country">
+								Bangladesh							</div>
+																												<a href="http://lda.international/" class="website" rel="nofollow" target="_blank">lda.international</a>
+																				</div>
+					</article>
+				</li>
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/1-country-partner/ybsl.png" alt="YBSL" />
+						</figure>
+						<div class="info">
+							<h1 class="name">YBSL</h1>
+														<div class="country">
+								Sri Lanka							</div>
+																												<a href="http://www.ybsl.lk/" class="website" rel="nofollow" target="_blank">ybsl.lk</a>
+																				</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+<section class="sponsors-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h1 class="h2">Collaboration Partners</h1>
+						
+			<ul class="medium-block-grid-5 small-block-grid-3 sponsors">
+								<li>
+					<div>
+												<a href="http://www.fametechnologies.in" target="_blank" class="description">
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/2-collaboration-partners/fame-technologies.png" alt="Fame Technologies" />
+																<figcaption class="name">
+									Fame Technologies								</figcaption>
+							</figure>
+							<small class="description">
+								Innovation & Strategic Partner							</small>
+												</a>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/2-collaboration-partners/saasia.png" alt="Startup Angel" />
+																<figcaption class="name">
+									Startup Angel								</figcaption>
+							</figure>
+							<small class="description">
+								Community Coordinator							</small>
+											</div>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+<section class="sponsors-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h1 class="h2">Community Partners</h1>
+						
+			<ul class="medium-block-grid-5 small-block-grid-3 sponsors">
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/500startup110px.png" alt="500 Startups" />
+																<figcaption class="name">
+									500 Startups								</figcaption>
+							</figure>
+							<small class="description">
+								Ecosystem Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/ksum.png" alt="KSUM" />
+																<figcaption class="name">
+									KSUM								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/svco.png" alt="SV.CO" />
+																<figcaption class="name">
+									SV.CO								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/euraxess-new.png" alt="EURAXESS" />
+																<figcaption class="name">
+									EURAXESS								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/bhive.png" alt="Bhive Workspace" />
+																<figcaption class="name">
+									Bhive Workspace								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/numa.png" alt="NUMA" />
+																<figcaption class="name">
+									NUMA								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/global-incubation-services-logo.png" alt="GINSERV" />
+																<figcaption class="name">
+									GINSERV								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/iit-madras.png" alt="IIT Madras" />
+																<figcaption class="name">
+									IIT Madras								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/iit-roorkee.png" alt="IIT Roorkee" />
+																<figcaption class="name">
+									IIT Roorkee								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/pdpu.png" alt="PDPU" />
+																<figcaption class="name">
+									PDPU								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/bea.png" alt="Bihar Entrepreneur Association" />
+																<figcaption class="name">
+									Bihar Entrepreneur Association								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/edugild-registered-100px.jpg" alt="EDUGILD" />
+																<figcaption class="name">
+									EDUGILD								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/leadsclue-100px.jpg" alt="Leads Clue" />
+																<figcaption class="name">
+									Leads Clue								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/greenbubble-100px.jpg" alt="GreenBubbles Startup Services" />
+																<figcaption class="name">
+									GreenBubbles Startup Services								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/startup-buddy-100px.jpg" alt="Startup Buddy" />
+																<figcaption class="name">
+									Startup Buddy								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/rise-100px.jpg" alt="ReRise" />
+																<figcaption class="name">
+									ReRise								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/founders-cub-100px.jpg" alt="Founders Cube" />
+																<figcaption class="name">
+									Founders Cube								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/50kventures-110px.jpg" alt="50K  Ventures" />
+																<figcaption class="name">
+									50K  Ventures								</figcaption>
+							</figure>
+							<small class="description">
+								Ecosystem Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/startupbrologo-110px.jpg" alt="Startup BRO" />
+																<figcaption class="name">
+									Startup BRO								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/fundhound-110px.png" alt="FundHound" />
+																<figcaption class="name">
+									FundHound								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach Partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/e-cell_logo_horizon.png" alt="E-cell iit madras" />
+																<figcaption class="name">
+									E-cell iit madras								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/chathurideas.png" alt="Chatur Ideas" />
+																<figcaption class="name">
+									Chatur Ideas								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/one_cowork.png" alt="one.co work" />
+																<figcaption class="name">
+									one.co work								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/unfurl.png" alt="unfurl" />
+																<figcaption class="name">
+									unfurl								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/coworkable.png" alt="coworkable" />
+																<figcaption class="name">
+									coworkable								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/innobleip.png" alt="ennoble ip" />
+																<figcaption class="name">
+									ennoble ip								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/excubator_finallogo_black.png" alt="Excubator" />
+																<figcaption class="name">
+									Excubator								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/amrita.png" alt="Amrita Tbi" />
+																<figcaption class="name">
+									Amrita Tbi								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/adtu_logo.png" alt="assam down town" />
+																<figcaption class="name">
+									assam down town								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/dtvl_final_logo.png" alt="down town venture labs" />
+																<figcaption class="name">
+									down town venture labs								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/clutch.png" alt="Clutch AI" />
+																<figcaption class="name">
+									Clutch AI								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/advantedge.png" alt="Advantedge" />
+																<figcaption class="name">
+									Advantedge								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/3-community-partners/khosla_labs.png" alt="kosla labs" />
+																<figcaption class="name">
+									kosla labs								</figcaption>
+							</figure>
+							<small class="description">
+								Outreach partner							</small>
+											</div>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+<section class="sponsors-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h1 class="h2">Media Outreach Partner</h1>
+						
+			<ul class="medium-block-grid-5 small-block-grid-3 sponsors">
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/4-media-outreach-partner/indians-news-logo.png" alt="Indians news" />
+																<figcaption class="name">
+									Indians news								</figcaption>
+							</figure>
+							<small class="description">
+															</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/4-media-outreach-partner/startup-sucessstories-10px.jpg" alt="Startup Success Stories" />
+																<figcaption class="name">
+									Startup Success Stories								</figcaption>
+							</figure>
+							<small class="description">
+															</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/4-media-outreach-partner/mystartupstory.png" alt="My Startup Story" />
+																<figcaption class="name">
+									My Startup Story								</figcaption>
+							</figure>
+							<small class="description">
+															</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/4-media-outreach-partner/logo_insights_110px.jpg" alt="Insights Success" />
+																<figcaption class="name">
+									Insights Success								</figcaption>
+							</figure>
+							<small class="description">
+															</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/4-media-outreach-partner/cmptl.png" alt="CMPTL" />
+																<figcaption class="name">
+									CMPTL								</figcaption>
+							</figure>
+							<small class="description">
+															</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/4-media-outreach-partner/eiu_logo.png" alt="The Entrepreneur You" />
+																<figcaption class="name">
+									The Entrepreneur You								</figcaption>
+							</figure>
+							<small class="description">
+															</small>
+											</div>
+				</li>
+								<li>
+					<div>
+													<figure class="logo">
+																<img src="http://www.saarcstartupawards.com/content/3-partner/4-media-outreach-partner/yourstory-logo-1.png" alt="YourStory" />
+																<figcaption class="name">
+									YourStory								</figcaption>
+							</figure>
+							<small class="description">
+															</small>
+											</div>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+<section class="people-section">
+	<div class="row">
+		<div class="medium-12 columns">
+						<h2>Let's become partners</h2>
+									<div><p>We at GSA SAARC are really looking forward to all our shows in 2017 and to further connecting startup ecosystems across regions. We do hope that you would like to be part of it. Feel free to contact us at any time.</p></div>
+			
+			
+			<ul class="people small-block-grid-1 medium-block-grid-2">
+								<li class="person horizontal">
+					<article>
+						<figure>
+							<img src="http://www.saarcstartupawards.com/content/3-partner/5-let-s-become-partners/13434719_243545122693998_1826808832705032134_n.jpg" alt="Nelson Vasanth J" />
+						</figure>
+						<div class="info">
+							<h1 class="name">Nelson Vasanth J</h1>
+														<div class="country">
+								India							</div>
+																					<div class="position">
+								<p>SAARC CEO</p>							</div>
+																					<a href="https://www.linkedin.com/in/nelson-vasanth-j-769827105/" class="website" rel="nofollow" target="_blank">LinkedIn</a>
+																					<h2>Description</h2>
+							<p>MAIL: nelson@saarcstartups.com<br />
+SKYPE: vasanthnelson</p>													</div>
+					</article>
+				</li>
+							</ul>
+		</div>
+	</div>
+</section>
+
+			</main>
+			<footer class="site-footer" id="contact">
+				
+<section class="contact-us-section">
+<!--
+	Contact mail: 	Enviroment: 	Server env: www.saarcstartupawards.com-->
+	<form id="contact-form" action="http://www.saarcstartupawards.com/contactform" method="post">
+		<div class="row">
+			<div class="medium-12 columns">
+				<h2>Contact Us</h2>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-6 medium-offset-6 columns">
+				<div class="message"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-6 columns">
+				<div class="form-element">
+					<input name="name" type="text" placeholder="Your name" />
+				</div>
+				<div class="form-element">
+					<input name="email" type="email" placeholder="Your e-mail" />
+				</div>
+			</div>
+			<div class="medium-6 columns">
+				<div class="form-element message-wrapper">
+					<textarea name="message" cols="30" rows="5" placeholder="Message"></textarea>
+				</div>
+				<div class="row">
+					<div class="medium-6 columns">
+						<input name="newsletter" type="checkbox" id="newsletter" value="1" />
+						<label for="newsletter">Subscribe to newsletter</label>
+					</div>
+					<div class="medium-6 columns submit-wrapper">
+						<button type="submit" class="btn right-arrow">Send</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</section>				<section>
+					<div class="row">
+						<div class="medium-12 columns">
+							<h2>Follow Us</h2>
+							<ul class="small-block-grid-2 medium-block-grid-5 large-block-grid-5 social-links-wrapper block-grid-centered" id="footer-social-links">
+								<li class="twitter">
+									<a href="https://twitter.com/SAARCstartups" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Twitter</h3>
+									<div class="function">
+										<p><a href="https://twitter.com/SAARCstartups" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @SAARCstartups</a></p>									</div>
+								</li>
+								<li class="fb">
+									<a href="https://www.facebook.com/SAARCstartups" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Facebook</h3>
+									<div class="function">
+										<iframe src="//www.facebook.com/plugins/like.php?href=https://www.facebook.com/SAARCstartups&width=90&layout=button_count&action=like&show_faces=false&share=false&height=21&appId=1422969134616830" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>									</div>
+								</li>
+								<li class="youtube">
+									<a href="http://www.youtube.com/user/TheStartupAwards" target="_blank" class="logo"></a>
+									<h3 class="title">GSA-SAARC on Youtube</h3>
+									<div class="function">
+										<div class="g-ytsubscribe" data-channel="TheStartupAwards" data-layout="default" data-count="default"></div>									</div>
+								</li>
+																<li class="newsletter">
+									<div class="logo ss-mail"></div>
+									<h3 class="title">Subscribe to newsletter</h3>
+									<div class="function">
+										<form method="POST" action="newsletter-subscription" class="newsletter-subscribe" id="newsletter-subscribe-footer">
+											<div class="mail-wrapper">
+												<input type="email" name="email" placeholder="Your e-mail" />
+												<button type="submit"></button>
+											</div>
+											<div class="response"></div>
+										</form>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+			</footer>
+
+			
+<nav id="cd-lateral-nav" data-site-url="http://www.saarcstartupawards.com" data-page-url="http://www.saarcstartupawards.com/partner">
+	<ul class="cd-navigation">
+				<li class="">
+			<a href="http://www.saarcstartupawards.com/home">GSA SAARC 2018</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/home">Visit GSA SAARC 2018</a></li>
+			</ul>
+		</li>
+				<li class=" show-for-small-only">
+			<a href="http://www.saarcstartupawards.com/panel-team">SAARC PANEL</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/panel-team">Visit SAARC PANEL</a></li>
+			</ul>
+		</li>
+				<li class=" show-for-small-only">
+			<a href="http://www.saarcstartupawards.com/partner">Partners</a>
+				<ul class="sub-menu">
+		<li class="main-item"><a href="http://www.saarcstartupawards.com/partner">Visit Partners</a></li>
+			</ul>
+		</li>
+				<li class="show-for-small-only">
+			<a href="#contact">Contact</a>
+		</li>
+	</ul> <!-- cd-single-item-wrapper -->
+
+	
+</nav>		</div><!-- end .site-wrapper -->
+
+		
+		<script src="https://apis.google.com/js/platform.js"></script>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+				<script src="http://www.saarcstartupawards.com/assets/js/site.min.js"></script>
+			<script type="text/paperscript" canvas="logo-poly" src="http://www.saarcstartupawards.com/assets/js/logo-poly.min.js"></script>
+		</body>
+</html>
+</div>
